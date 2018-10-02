@@ -1,4 +1,5 @@
-![Hackathon](docs/hackathon_banner.png)
+<center>![Hackathon](docs/hackathon_banner.png)
+
 Welcome to the submission repository for the Fellowship of Ethereum Magicians (FEM) remote hackathon.
 
 You can read more about FEM and ask questions [here](https://ethereum-magicians.org).
