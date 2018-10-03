@@ -1,10 +1,10 @@
-# An Example Project for the Colony Hackathon
+# An Example Project for the FEM remoteHackathon
 
 ## Project Description
-This is a project that solves a real problem in the decentralized ecosystem: Lack of example projects for the Colony Hackathon.
+This is a project that solves a real problem in the decentralized ecosystem: Lack of example projects for the  remoteHackathon.
 
 ### Issue
-This closes the issue colonyHackathon#1
+This closes the issue remoteHackathon#1
 
 ### Repository
 
